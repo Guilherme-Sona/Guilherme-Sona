@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋! Meu nome é Guilherme Sona e eu sou do Brasil.</h2>
+<h2 align="center">Olá 👋! I'm Guilherme Sona</h2>
 
 ###
 
